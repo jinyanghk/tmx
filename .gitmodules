@@ -1,9 +1,12 @@
 [submodule "src/tcc"]
 	path = src/tcc
 	url = https://github.com/jinyanghk/tinycc
+	branch = tmx
 [submodule "src/xv6"]
 	path = src/xv6
 	url = https://github.com/jinyanghk/xv6-i386
+	branch = tmx
 [submodule "src/musl"]
 	path = src/musl
 	url = https://github.com/jinyanghk/musl-tcc
+	branch = tmx
